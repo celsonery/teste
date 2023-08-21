@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main () {
-  printf("Ola git\n");
+  printf("Ola mundo git\n");
 }
 
